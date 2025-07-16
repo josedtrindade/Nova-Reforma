@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f9f9f9;
+    color: #222;
+}
+
+header {
+    background-color: #0C254D;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header nav a {
+    color: #F2A034;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background: linear-gradient(#0C254D, #122e63);
+    color: #fff;
+    text-align: center;
+    padding: 4rem 1rem;
+}
+
+.hero .botao {
+    background: #F2A034;
+    color: #000;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+section h2 {
+    color: #0C254D;
+}
+
+.botao {
+    background: #F2A034;
+    color: #000;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    background: #0C254D;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
