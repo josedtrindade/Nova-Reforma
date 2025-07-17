@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
-  branch: main
+  name: github
+  repo: josedtrindade/Nova-Reforma
+  branch: principal
 
 media_folder: "uploads"
 public_folder: "/uploads"
