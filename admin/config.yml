@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: josedtrindade/Nova-Reforma
-  branch: principal
+  branch: main
 
 media_folder: "uploads"
 public_folder: "/uploads"
